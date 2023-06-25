@@ -10,7 +10,7 @@ ID,sentimiento
 60008,negativo
 60009,negativo
 60010,negativo
-60011,positivo
+60011,negativo
 60012,negativo
 60013,negativo
 60014,negativo
@@ -31,7 +31,7 @@ ID,sentimiento
 60029,positivo
 60030,negativo
 60031,positivo
-60032,negativo
+60032,positivo
 60033,negativo
 60034,negativo
 60035,negativo
@@ -113,7 +113,7 @@ ID,sentimiento
 60111,positivo
 60112,positivo
 60113,negativo
-60114,negativo
+60114,positivo
 60115,negativo
 60116,positivo
 60117,positivo
@@ -126,7 +126,7 @@ ID,sentimiento
 60124,positivo
 60125,positivo
 60126,negativo
-60127,negativo
+60127,positivo
 60128,negativo
 60129,negativo
 60130,positivo
@@ -141,7 +141,7 @@ ID,sentimiento
 60139,positivo
 60140,negativo
 60141,positivo
-60142,positivo
+60142,negativo
 60143,positivo
 60144,negativo
 60145,negativo
@@ -167,7 +167,7 @@ ID,sentimiento
 60165,negativo
 60166,positivo
 60167,negativo
-60168,positivo
+60168,negativo
 60169,positivo
 60170,negativo
 60171,negativo
@@ -181,7 +181,7 @@ ID,sentimiento
 60179,negativo
 60180,negativo
 60181,negativo
-60182,positivo
+60182,negativo
 60183,negativo
 60184,positivo
 60185,negativo
@@ -234,12 +234,12 @@ ID,sentimiento
 60232,positivo
 60233,negativo
 60234,negativo
-60235,negativo
+60235,positivo
 60236,negativo
 60237,negativo
 60238,positivo
 60239,positivo
-60240,positivo
+60240,negativo
 60241,negativo
 60242,negativo
 60243,positivo
@@ -260,7 +260,7 @@ ID,sentimiento
 60258,negativo
 60259,negativo
 60260,positivo
-60261,positivo
+60261,negativo
 60262,positivo
 60263,negativo
 60264,positivo
@@ -357,7 +357,7 @@ ID,sentimiento
 60355,positivo
 60356,negativo
 60357,positivo
-60358,negativo
+60358,positivo
 60359,negativo
 60360,negativo
 60361,negativo
@@ -390,7 +390,7 @@ ID,sentimiento
 60388,negativo
 60389,positivo
 60390,positivo
-60391,positivo
+60391,negativo
 60392,positivo
 60393,negativo
 60394,negativo
@@ -412,7 +412,7 @@ ID,sentimiento
 60410,positivo
 60411,negativo
 60412,negativo
-60413,positivo
+60413,negativo
 60414,positivo
 60415,positivo
 60416,negativo
@@ -472,7 +472,7 @@ ID,sentimiento
 60470,negativo
 60471,positivo
 60472,negativo
-60473,negativo
+60473,positivo
 60474,positivo
 60475,negativo
 60476,negativo
@@ -480,13 +480,13 @@ ID,sentimiento
 60478,negativo
 60479,positivo
 60480,negativo
-60481,positivo
+60481,negativo
 60482,negativo
 60483,negativo
 60484,positivo
 60485,negativo
 60486,negativo
-60487,positivo
+60487,negativo
 60488,negativo
 60489,positivo
 60490,negativo
@@ -565,14 +565,14 @@ ID,sentimiento
 60563,positivo
 60564,positivo
 60565,positivo
-60566,negativo
+60566,positivo
 60567,positivo
 60568,positivo
 60569,positivo
 60570,positivo
-60571,negativo
+60571,positivo
 60572,positivo
-60573,negativo
+60573,positivo
 60574,positivo
 60575,negativo
 60576,positivo
@@ -586,7 +586,7 @@ ID,sentimiento
 60584,positivo
 60585,positivo
 60586,positivo
-60587,negativo
+60587,positivo
 60588,positivo
 60589,positivo
 60590,positivo
@@ -635,7 +635,7 @@ ID,sentimiento
 60633,positivo
 60634,positivo
 60635,positivo
-60636,negativo
+60636,positivo
 60637,negativo
 60638,positivo
 60639,negativo
@@ -658,7 +658,7 @@ ID,sentimiento
 60656,negativo
 60657,positivo
 60658,positivo
-60659,negativo
+60659,positivo
 60660,negativo
 60661,positivo
 60662,positivo
@@ -671,7 +671,7 @@ ID,sentimiento
 60669,positivo
 60670,positivo
 60671,negativo
-60672,negativo
+60672,positivo
 60673,positivo
 60674,positivo
 60675,positivo
@@ -739,7 +739,7 @@ ID,sentimiento
 60737,positivo
 60738,positivo
 60739,negativo
-60740,positivo
+60740,negativo
 60741,positivo
 60742,positivo
 60743,positivo
@@ -773,7 +773,7 @@ ID,sentimiento
 60771,positivo
 60772,positivo
 60773,positivo
-60774,negativo
+60774,positivo
 60775,positivo
 60776,negativo
 60777,positivo
@@ -848,14 +848,14 @@ ID,sentimiento
 60846,positivo
 60847,positivo
 60848,positivo
-60849,negativo
+60849,positivo
 60850,positivo
 60851,positivo
 60852,positivo
 60853,negativo
 60854,positivo
 60855,positivo
-60856,negativo
+60856,positivo
 60857,negativo
 60858,positivo
 60859,negativo
@@ -878,7 +878,7 @@ ID,sentimiento
 60876,positivo
 60877,negativo
 60878,negativo
-60879,negativo
+60879,positivo
 60880,negativo
 60881,positivo
 60882,negativo
@@ -897,7 +897,7 @@ ID,sentimiento
 60895,positivo
 60896,negativo
 60897,positivo
-60898,negativo
+60898,positivo
 60899,positivo
 60900,positivo
 60901,negativo
@@ -920,7 +920,7 @@ ID,sentimiento
 60918,positivo
 60919,positivo
 60920,negativo
-60921,negativo
+60921,positivo
 60922,positivo
 60923,positivo
 60924,positivo
@@ -989,12 +989,12 @@ ID,sentimiento
 60987,positivo
 60988,positivo
 60989,negativo
-60990,positivo
+60990,negativo
 60991,positivo
 60992,positivo
 60993,negativo
 60994,negativo
-60995,positivo
+60995,negativo
 60996,negativo
 60997,positivo
 60998,negativo
@@ -1054,7 +1054,7 @@ ID,sentimiento
 61052,negativo
 61053,negativo
 61054,negativo
-61055,positivo
+61055,negativo
 61056,negativo
 61057,negativo
 61058,negativo
@@ -1063,7 +1063,7 @@ ID,sentimiento
 61061,negativo
 61062,negativo
 61063,positivo
-61064,positivo
+61064,negativo
 61065,negativo
 61066,positivo
 61067,positivo
@@ -1093,7 +1093,7 @@ ID,sentimiento
 61091,negativo
 61092,negativo
 61093,positivo
-61094,positivo
+61094,negativo
 61095,positivo
 61096,positivo
 61097,negativo
@@ -1173,9 +1173,9 @@ ID,sentimiento
 61171,negativo
 61172,negativo
 61173,positivo
-61174,positivo
+61174,negativo
 61175,negativo
-61176,negativo
+61176,positivo
 61177,positivo
 61178,positivo
 61179,positivo
@@ -1200,7 +1200,7 @@ ID,sentimiento
 61198,negativo
 61199,positivo
 61200,positivo
-61201,positivo
+61201,negativo
 61202,positivo
 61203,negativo
 61204,positivo
@@ -1235,7 +1235,7 @@ ID,sentimiento
 61233,negativo
 61234,positivo
 61235,positivo
-61236,negativo
+61236,positivo
 61237,positivo
 61238,positivo
 61239,positivo
@@ -1290,7 +1290,7 @@ ID,sentimiento
 61288,negativo
 61289,positivo
 61290,negativo
-61291,negativo
+61291,positivo
 61292,positivo
 61293,positivo
 61294,negativo
@@ -1331,14 +1331,14 @@ ID,sentimiento
 61329,negativo
 61330,positivo
 61331,negativo
-61332,negativo
+61332,positivo
 61333,positivo
 61334,positivo
 61335,negativo
 61336,positivo
 61337,positivo
 61338,negativo
-61339,positivo
+61339,negativo
 61340,positivo
 61341,negativo
 61342,positivo
@@ -1364,7 +1364,7 @@ ID,sentimiento
 61362,positivo
 61363,positivo
 61364,negativo
-61365,negativo
+61365,positivo
 61366,positivo
 61367,positivo
 61368,positivo
@@ -1392,7 +1392,7 @@ ID,sentimiento
 61390,positivo
 61391,positivo
 61392,positivo
-61393,positivo
+61393,negativo
 61394,positivo
 61395,negativo
 61396,negativo
@@ -1444,7 +1444,7 @@ ID,sentimiento
 61442,positivo
 61443,positivo
 61444,positivo
-61445,negativo
+61445,positivo
 61446,positivo
 61447,negativo
 61448,negativo
@@ -1453,9 +1453,9 @@ ID,sentimiento
 61451,positivo
 61452,negativo
 61453,positivo
-61454,negativo
+61454,positivo
 61455,positivo
-61456,negativo
+61456,positivo
 61457,positivo
 61458,negativo
 61459,negativo
@@ -1502,7 +1502,7 @@ ID,sentimiento
 61500,negativo
 61501,negativo
 61502,negativo
-61503,positivo
+61503,negativo
 61504,positivo
 61505,negativo
 61506,negativo
@@ -1531,7 +1531,7 @@ ID,sentimiento
 61529,negativo
 61530,negativo
 61531,negativo
-61532,negativo
+61532,positivo
 61533,negativo
 61534,negativo
 61535,negativo
@@ -1572,7 +1572,7 @@ ID,sentimiento
 61570,negativo
 61571,positivo
 61572,negativo
-61573,negativo
+61573,positivo
 61574,positivo
 61575,positivo
 61576,negativo
@@ -1672,7 +1672,7 @@ ID,sentimiento
 61670,negativo
 61671,positivo
 61672,negativo
-61673,negativo
+61673,positivo
 61674,positivo
 61675,negativo
 61676,negativo
@@ -1685,7 +1685,7 @@ ID,sentimiento
 61683,positivo
 61684,negativo
 61685,positivo
-61686,positivo
+61686,negativo
 61687,positivo
 61688,positivo
 61689,positivo
@@ -1701,7 +1701,7 @@ ID,sentimiento
 61699,positivo
 61700,positivo
 61701,negativo
-61702,negativo
+61702,positivo
 61703,negativo
 61704,positivo
 61705,negativo
@@ -1745,9 +1745,9 @@ ID,sentimiento
 61743,negativo
 61744,negativo
 61745,negativo
-61746,negativo
+61746,positivo
 61747,positivo
-61748,negativo
+61748,positivo
 61749,negativo
 61750,positivo
 61751,negativo
@@ -1854,7 +1854,7 @@ ID,sentimiento
 61852,negativo
 61853,positivo
 61854,positivo
-61855,negativo
+61855,positivo
 61856,positivo
 61857,negativo
 61858,positivo
@@ -1865,7 +1865,7 @@ ID,sentimiento
 61863,negativo
 61864,negativo
 61865,positivo
-61866,negativo
+61866,positivo
 61867,negativo
 61868,positivo
 61869,positivo
@@ -1915,7 +1915,7 @@ ID,sentimiento
 61913,positivo
 61914,negativo
 61915,positivo
-61916,negativo
+61916,positivo
 61917,positivo
 61918,positivo
 61919,positivo
@@ -1932,7 +1932,7 @@ ID,sentimiento
 61930,negativo
 61931,positivo
 61932,positivo
-61933,negativo
+61933,positivo
 61934,negativo
 61935,positivo
 61936,negativo
@@ -1948,7 +1948,7 @@ ID,sentimiento
 61946,negativo
 61947,negativo
 61948,positivo
-61949,negativo
+61949,positivo
 61950,negativo
 61951,positivo
 61952,positivo
@@ -2038,12 +2038,12 @@ ID,sentimiento
 62036,positivo
 62037,negativo
 62038,positivo
-62039,positivo
+62039,negativo
 62040,negativo
 62041,positivo
 62042,negativo
 62043,positivo
-62044,negativo
+62044,positivo
 62045,positivo
 62046,positivo
 62047,negativo
@@ -2083,7 +2083,7 @@ ID,sentimiento
 62081,negativo
 62082,positivo
 62083,negativo
-62084,negativo
+62084,positivo
 62085,positivo
 62086,negativo
 62087,negativo
@@ -2104,8 +2104,8 @@ ID,sentimiento
 62102,negativo
 62103,positivo
 62104,positivo
-62105,positivo
-62106,positivo
+62105,negativo
+62106,negativo
 62107,negativo
 62108,negativo
 62109,negativo
@@ -2169,7 +2169,7 @@ ID,sentimiento
 62167,positivo
 62168,negativo
 62169,positivo
-62170,positivo
+62170,negativo
 62171,positivo
 62172,positivo
 62173,positivo
@@ -2189,7 +2189,7 @@ ID,sentimiento
 62187,positivo
 62188,positivo
 62189,negativo
-62190,positivo
+62190,negativo
 62191,negativo
 62192,positivo
 62193,positivo
@@ -2245,7 +2245,7 @@ ID,sentimiento
 62243,positivo
 62244,positivo
 62245,positivo
-62246,negativo
+62246,positivo
 62247,positivo
 62248,positivo
 62249,positivo
@@ -2308,7 +2308,7 @@ ID,sentimiento
 62306,positivo
 62307,negativo
 62308,positivo
-62309,negativo
+62309,positivo
 62310,negativo
 62311,negativo
 62312,positivo
@@ -2352,7 +2352,7 @@ ID,sentimiento
 62350,negativo
 62351,positivo
 62352,positivo
-62353,negativo
+62353,positivo
 62354,negativo
 62355,positivo
 62356,negativo
@@ -2376,7 +2376,7 @@ ID,sentimiento
 62374,positivo
 62375,positivo
 62376,positivo
-62377,negativo
+62377,positivo
 62378,positivo
 62379,positivo
 62380,negativo
@@ -2402,7 +2402,7 @@ ID,sentimiento
 62400,positivo
 62401,positivo
 62402,positivo
-62403,negativo
+62403,positivo
 62404,negativo
 62405,positivo
 62406,positivo
@@ -2442,7 +2442,7 @@ ID,sentimiento
 62440,positivo
 62441,positivo
 62442,positivo
-62443,negativo
+62443,positivo
 62444,positivo
 62445,positivo
 62446,positivo
@@ -2458,12 +2458,12 @@ ID,sentimiento
 62456,positivo
 62457,positivo
 62458,positivo
-62459,negativo
+62459,positivo
 62460,positivo
 62461,positivo
 62462,positivo
 62463,positivo
-62464,negativo
+62464,positivo
 62465,negativo
 62466,positivo
 62467,positivo
@@ -2473,7 +2473,7 @@ ID,sentimiento
 62471,positivo
 62472,positivo
 62473,positivo
-62474,negativo
+62474,positivo
 62475,positivo
 62476,positivo
 62477,positivo
@@ -2509,12 +2509,12 @@ ID,sentimiento
 62507,positivo
 62508,positivo
 62509,positivo
-62510,negativo
+62510,positivo
 62511,positivo
 62512,positivo
 62513,positivo
-62514,negativo
-62515,negativo
+62514,positivo
+62515,positivo
 62516,positivo
 62517,negativo
 62518,negativo
@@ -2523,7 +2523,7 @@ ID,sentimiento
 62521,positivo
 62522,positivo
 62523,positivo
-62524,negativo
+62524,positivo
 62525,negativo
 62526,negativo
 62527,negativo
@@ -2547,7 +2547,7 @@ ID,sentimiento
 62545,positivo
 62546,positivo
 62547,positivo
-62548,negativo
+62548,positivo
 62549,negativo
 62550,negativo
 62551,negativo
@@ -2560,7 +2560,7 @@ ID,sentimiento
 62558,positivo
 62559,positivo
 62560,positivo
-62561,negativo
+62561,positivo
 62562,positivo
 62563,negativo
 62564,positivo
@@ -2570,7 +2570,7 @@ ID,sentimiento
 62568,positivo
 62569,positivo
 62570,positivo
-62571,negativo
+62571,positivo
 62572,positivo
 62573,positivo
 62574,positivo
@@ -2650,7 +2650,7 @@ ID,sentimiento
 62648,positivo
 62649,negativo
 62650,negativo
-62651,positivo
+62651,negativo
 62652,positivo
 62653,negativo
 62654,positivo
@@ -2699,7 +2699,7 @@ ID,sentimiento
 62697,negativo
 62698,negativo
 62699,negativo
-62700,positivo
+62700,negativo
 62701,positivo
 62702,negativo
 62703,negativo
@@ -2739,7 +2739,7 @@ ID,sentimiento
 62737,negativo
 62738,positivo
 62739,negativo
-62740,positivo
+62740,negativo
 62741,negativo
 62742,negativo
 62743,negativo
@@ -2790,7 +2790,7 @@ ID,sentimiento
 62788,negativo
 62789,positivo
 62790,positivo
-62791,positivo
+62791,negativo
 62792,negativo
 62793,positivo
 62794,positivo
@@ -2826,7 +2826,7 @@ ID,sentimiento
 62824,positivo
 62825,positivo
 62826,negativo
-62827,positivo
+62827,negativo
 62828,positivo
 62829,positivo
 62830,positivo
@@ -2922,7 +2922,7 @@ ID,sentimiento
 62920,positivo
 62921,positivo
 62922,positivo
-62923,negativo
+62923,positivo
 62924,positivo
 62925,positivo
 62926,positivo
@@ -2952,7 +2952,7 @@ ID,sentimiento
 62950,negativo
 62951,positivo
 62952,positivo
-62953,positivo
+62953,negativo
 62954,positivo
 62955,positivo
 62956,positivo
@@ -2974,7 +2974,7 @@ ID,sentimiento
 62972,positivo
 62973,negativo
 62974,positivo
-62975,negativo
+62975,positivo
 62976,negativo
 62977,positivo
 62978,positivo
@@ -3086,7 +3086,7 @@ ID,sentimiento
 63084,negativo
 63085,negativo
 63086,negativo
-63087,positivo
+63087,negativo
 63088,negativo
 63089,negativo
 63090,negativo
@@ -3129,7 +3129,7 @@ ID,sentimiento
 63127,negativo
 63128,negativo
 63129,negativo
-63130,negativo
+63130,positivo
 63131,negativo
 63132,negativo
 63133,negativo
@@ -3151,7 +3151,7 @@ ID,sentimiento
 63149,negativo
 63150,negativo
 63151,negativo
-63152,negativo
+63152,positivo
 63153,negativo
 63154,negativo
 63155,positivo
@@ -3166,7 +3166,7 @@ ID,sentimiento
 63164,negativo
 63165,negativo
 63166,positivo
-63167,negativo
+63167,positivo
 63168,negativo
 63169,negativo
 63170,positivo
@@ -3201,7 +3201,7 @@ ID,sentimiento
 63199,positivo
 63200,positivo
 63201,negativo
-63202,negativo
+63202,positivo
 63203,negativo
 63204,negativo
 63205,negativo
@@ -3227,7 +3227,7 @@ ID,sentimiento
 63225,negativo
 63226,negativo
 63227,positivo
-63228,negativo
+63228,positivo
 63229,negativo
 63230,negativo
 63231,positivo
@@ -3271,7 +3271,7 @@ ID,sentimiento
 63269,positivo
 63270,positivo
 63271,positivo
-63272,negativo
+63272,positivo
 63273,positivo
 63274,positivo
 63275,negativo
@@ -3280,7 +3280,7 @@ ID,sentimiento
 63278,negativo
 63279,positivo
 63280,positivo
-63281,negativo
+63281,positivo
 63282,negativo
 63283,positivo
 63284,positivo
@@ -3406,7 +3406,7 @@ ID,sentimiento
 63404,negativo
 63405,positivo
 63406,negativo
-63407,positivo
+63407,negativo
 63408,negativo
 63409,positivo
 63410,negativo
@@ -3439,7 +3439,7 @@ ID,sentimiento
 63437,negativo
 63438,negativo
 63439,positivo
-63440,positivo
+63440,negativo
 63441,negativo
 63442,negativo
 63443,negativo
@@ -3529,12 +3529,12 @@ ID,sentimiento
 63527,negativo
 63528,negativo
 63529,negativo
-63530,negativo
+63530,positivo
 63531,negativo
 63532,positivo
 63533,negativo
 63534,negativo
-63535,negativo
+63535,positivo
 63536,negativo
 63537,negativo
 63538,positivo
@@ -3651,7 +3651,7 @@ ID,sentimiento
 63649,negativo
 63650,negativo
 63651,negativo
-63652,positivo
+63652,negativo
 63653,negativo
 63654,negativo
 63655,negativo
@@ -3697,7 +3697,7 @@ ID,sentimiento
 63695,positivo
 63696,negativo
 63697,negativo
-63698,negativo
+63698,positivo
 63699,negativo
 63700,positivo
 63701,positivo
@@ -3739,7 +3739,7 @@ ID,sentimiento
 63737,negativo
 63738,positivo
 63739,negativo
-63740,positivo
+63740,negativo
 63741,positivo
 63742,negativo
 63743,negativo
@@ -3786,7 +3786,7 @@ ID,sentimiento
 63784,negativo
 63785,negativo
 63786,negativo
-63787,negativo
+63787,positivo
 63788,negativo
 63789,negativo
 63790,negativo
@@ -3819,7 +3819,7 @@ ID,sentimiento
 63817,negativo
 63818,positivo
 63819,negativo
-63820,positivo
+63820,negativo
 63821,positivo
 63822,negativo
 63823,negativo
@@ -3837,7 +3837,7 @@ ID,sentimiento
 63835,positivo
 63836,positivo
 63837,positivo
-63838,negativo
+63838,positivo
 63839,positivo
 63840,positivo
 63841,negativo
@@ -3861,7 +3861,7 @@ ID,sentimiento
 63859,negativo
 63860,positivo
 63861,positivo
-63862,negativo
+63862,positivo
 63863,negativo
 63864,positivo
 63865,positivo
@@ -3927,7 +3927,7 @@ ID,sentimiento
 63925,positivo
 63926,positivo
 63927,positivo
-63928,positivo
+63928,negativo
 63929,positivo
 63930,positivo
 63931,positivo
@@ -4048,7 +4048,7 @@ ID,sentimiento
 64046,positivo
 64047,positivo
 64048,negativo
-64049,positivo
+64049,negativo
 64050,positivo
 64051,negativo
 64052,negativo
@@ -4124,7 +4124,7 @@ ID,sentimiento
 64122,positivo
 64123,positivo
 64124,positivo
-64125,positivo
+64125,negativo
 64126,negativo
 64127,positivo
 64128,positivo
@@ -4259,14 +4259,14 @@ ID,sentimiento
 64257,positivo
 64258,positivo
 64259,positivo
-64260,negativo
+64260,positivo
 64261,positivo
 64262,positivo
 64263,negativo
 64264,negativo
 64265,negativo
 64266,positivo
-64267,negativo
+64267,positivo
 64268,positivo
 64269,positivo
 64270,positivo
@@ -4296,7 +4296,7 @@ ID,sentimiento
 64294,negativo
 64295,positivo
 64296,negativo
-64297,positivo
+64297,negativo
 64298,negativo
 64299,positivo
 64300,negativo
@@ -4388,7 +4388,7 @@ ID,sentimiento
 64386,positivo
 64387,negativo
 64388,negativo
-64389,positivo
+64389,negativo
 64390,positivo
 64391,positivo
 64392,positivo
@@ -4420,7 +4420,7 @@ ID,sentimiento
 64418,positivo
 64419,negativo
 64420,negativo
-64421,negativo
+64421,positivo
 64422,positivo
 64423,positivo
 64424,negativo
@@ -4460,7 +4460,7 @@ ID,sentimiento
 64458,positivo
 64459,negativo
 64460,negativo
-64461,negativo
+64461,positivo
 64462,negativo
 64463,negativo
 64464,positivo
@@ -4537,7 +4537,7 @@ ID,sentimiento
 64535,negativo
 64536,positivo
 64537,negativo
-64538,negativo
+64538,positivo
 64539,negativo
 64540,positivo
 64541,positivo
@@ -4555,7 +4555,7 @@ ID,sentimiento
 64553,negativo
 64554,positivo
 64555,negativo
-64556,positivo
+64556,negativo
 64557,negativo
 64558,negativo
 64559,negativo
@@ -4590,7 +4590,7 @@ ID,sentimiento
 64588,negativo
 64589,positivo
 64590,negativo
-64591,negativo
+64591,positivo
 64592,positivo
 64593,positivo
 64594,negativo
@@ -4607,7 +4607,7 @@ ID,sentimiento
 64605,positivo
 64606,negativo
 64607,positivo
-64608,positivo
+64608,negativo
 64609,negativo
 64610,positivo
 64611,positivo
@@ -4646,10 +4646,10 @@ ID,sentimiento
 64644,positivo
 64645,negativo
 64646,positivo
-64647,negativo
+64647,positivo
 64648,negativo
 64649,positivo
-64650,positivo
+64650,negativo
 64651,negativo
 64652,positivo
 64653,negativo
@@ -4677,7 +4677,7 @@ ID,sentimiento
 64675,positivo
 64676,negativo
 64677,positivo
-64678,positivo
+64678,negativo
 64679,negativo
 64680,positivo
 64681,positivo
@@ -4723,7 +4723,7 @@ ID,sentimiento
 64721,negativo
 64722,negativo
 64723,positivo
-64724,positivo
+64724,negativo
 64725,positivo
 64726,negativo
 64727,positivo
@@ -4731,14 +4731,14 @@ ID,sentimiento
 64729,negativo
 64730,positivo
 64731,negativo
-64732,positivo
+64732,negativo
 64733,negativo
 64734,positivo
 64735,negativo
 64736,positivo
-64737,positivo
+64737,negativo
 64738,positivo
-64739,negativo
+64739,positivo
 64740,positivo
 64741,negativo
 64742,positivo
@@ -4801,7 +4801,7 @@ ID,sentimiento
 64799,negativo
 64800,positivo
 64801,positivo
-64802,negativo
+64802,positivo
 64803,positivo
 64804,positivo
 64805,positivo
@@ -4816,7 +4816,7 @@ ID,sentimiento
 64814,negativo
 64815,positivo
 64816,negativo
-64817,negativo
+64817,positivo
 64818,positivo
 64819,negativo
 64820,positivo
@@ -4829,7 +4829,7 @@ ID,sentimiento
 64827,positivo
 64828,negativo
 64829,positivo
-64830,positivo
+64830,negativo
 64831,negativo
 64832,negativo
 64833,positivo
@@ -4884,7 +4884,7 @@ ID,sentimiento
 64882,negativo
 64883,positivo
 64884,positivo
-64885,negativo
+64885,positivo
 64886,positivo
 64887,negativo
 64888,positivo
@@ -4958,7 +4958,7 @@ ID,sentimiento
 64956,positivo
 64957,negativo
 64958,negativo
-64959,negativo
+64959,positivo
 64960,negativo
 64961,positivo
 64962,positivo
@@ -5179,7 +5179,7 @@ ID,sentimiento
 65177,negativo
 65178,negativo
 65179,negativo
-65180,negativo
+65180,positivo
 65181,positivo
 65182,negativo
 65183,positivo
@@ -5190,7 +5190,7 @@ ID,sentimiento
 65188,positivo
 65189,negativo
 65190,positivo
-65191,negativo
+65191,positivo
 65192,negativo
 65193,positivo
 65194,negativo
@@ -5247,7 +5247,7 @@ ID,sentimiento
 65245,positivo
 65246,negativo
 65247,positivo
-65248,positivo
+65248,negativo
 65249,positivo
 65250,positivo
 65251,positivo
@@ -5327,11 +5327,11 @@ ID,sentimiento
 65325,negativo
 65326,negativo
 65327,positivo
-65328,negativo
+65328,positivo
 65329,positivo
-65330,negativo
+65330,positivo
 65331,positivo
-65332,negativo
+65332,positivo
 65333,negativo
 65334,positivo
 65335,positivo
@@ -5403,8 +5403,8 @@ ID,sentimiento
 65401,positivo
 65402,positivo
 65403,negativo
-65404,positivo
-65405,negativo
+65404,negativo
+65405,positivo
 65406,positivo
 65407,positivo
 65408,positivo
@@ -5430,7 +5430,7 @@ ID,sentimiento
 65428,positivo
 65429,negativo
 65430,positivo
-65431,positivo
+65431,negativo
 65432,positivo
 65433,negativo
 65434,positivo
@@ -5443,14 +5443,14 @@ ID,sentimiento
 65441,positivo
 65442,positivo
 65443,positivo
-65444,positivo
+65444,negativo
 65445,positivo
-65446,positivo
+65446,negativo
 65447,negativo
 65448,positivo
 65449,positivo
 65450,negativo
-65451,positivo
+65451,negativo
 65452,positivo
 65453,positivo
 65454,negativo
@@ -5601,9 +5601,9 @@ ID,sentimiento
 65599,positivo
 65600,positivo
 65601,negativo
-65602,positivo
+65602,negativo
 65603,negativo
-65604,positivo
+65604,negativo
 65605,negativo
 65606,positivo
 65607,positivo
@@ -5686,7 +5686,7 @@ ID,sentimiento
 65684,negativo
 65685,positivo
 65686,positivo
-65687,positivo
+65687,negativo
 65688,positivo
 65689,positivo
 65690,negativo
@@ -5699,7 +5699,7 @@ ID,sentimiento
 65697,positivo
 65698,negativo
 65699,negativo
-65700,negativo
+65700,positivo
 65701,positivo
 65702,positivo
 65703,positivo
@@ -5731,12 +5731,12 @@ ID,sentimiento
 65729,positivo
 65730,positivo
 65731,negativo
-65732,negativo
+65732,positivo
 65733,negativo
-65734,negativo
+65734,positivo
 65735,positivo
 65736,positivo
-65737,negativo
+65737,positivo
 65738,negativo
 65739,negativo
 65740,positivo
@@ -5829,7 +5829,7 @@ ID,sentimiento
 65827,negativo
 65828,negativo
 65829,negativo
-65830,negativo
+65830,positivo
 65831,negativo
 65832,negativo
 65833,positivo
@@ -5904,7 +5904,7 @@ ID,sentimiento
 65902,negativo
 65903,negativo
 65904,negativo
-65905,negativo
+65905,positivo
 65906,negativo
 65907,positivo
 65908,negativo
@@ -5963,7 +5963,7 @@ ID,sentimiento
 65961,positivo
 65962,negativo
 65963,positivo
-65964,positivo
+65964,negativo
 65965,negativo
 65966,positivo
 65967,positivo
@@ -5982,7 +5982,7 @@ ID,sentimiento
 65980,negativo
 65981,negativo
 65982,negativo
-65983,positivo
+65983,negativo
 65984,positivo
 65985,positivo
 65986,negativo
@@ -5991,7 +5991,7 @@ ID,sentimiento
 65989,negativo
 65990,negativo
 65991,negativo
-65992,negativo
+65992,positivo
 65993,positivo
 65994,positivo
 65995,positivo
@@ -6087,7 +6087,7 @@ ID,sentimiento
 66085,positivo
 66086,positivo
 66087,negativo
-66088,negativo
+66088,positivo
 66089,positivo
 66090,positivo
 66091,positivo
@@ -6190,7 +6190,7 @@ ID,sentimiento
 66188,negativo
 66189,negativo
 66190,positivo
-66191,positivo
+66191,negativo
 66192,positivo
 66193,negativo
 66194,positivo
@@ -6216,7 +6216,7 @@ ID,sentimiento
 66214,negativo
 66215,negativo
 66216,negativo
-66217,negativo
+66217,positivo
 66218,negativo
 66219,positivo
 66220,positivo
@@ -6333,7 +6333,7 @@ ID,sentimiento
 66331,negativo
 66332,positivo
 66333,positivo
-66334,positivo
+66334,negativo
 66335,positivo
 66336,positivo
 66337,negativo
@@ -6380,8 +6380,8 @@ ID,sentimiento
 66378,positivo
 66379,negativo
 66380,positivo
-66381,negativo
-66382,negativo
+66381,positivo
+66382,positivo
 66383,negativo
 66384,positivo
 66385,positivo
@@ -6456,7 +6456,7 @@ ID,sentimiento
 66454,negativo
 66455,positivo
 66456,positivo
-66457,negativo
+66457,positivo
 66458,negativo
 66459,positivo
 66460,positivo
@@ -6562,7 +6562,7 @@ ID,sentimiento
 66560,positivo
 66561,positivo
 66562,negativo
-66563,negativo
+66563,positivo
 66564,positivo
 66565,positivo
 66566,positivo
@@ -6606,16 +6606,16 @@ ID,sentimiento
 66604,positivo
 66605,positivo
 66606,positivo
-66607,negativo
+66607,positivo
 66608,positivo
-66609,negativo
+66609,positivo
 66610,positivo
 66611,positivo
 66612,positivo
 66613,negativo
 66614,positivo
 66615,positivo
-66616,positivo
+66616,negativo
 66617,positivo
 66618,positivo
 66619,positivo
@@ -6705,14 +6705,14 @@ ID,sentimiento
 66703,positivo
 66704,positivo
 66705,positivo
-66706,negativo
+66706,positivo
 66707,positivo
 66708,positivo
 66709,positivo
 66710,positivo
 66711,positivo
 66712,positivo
-66713,negativo
+66713,positivo
 66714,positivo
 66715,positivo
 66716,positivo
@@ -6808,7 +6808,7 @@ ID,sentimiento
 66806,negativo
 66807,positivo
 66808,positivo
-66809,positivo
+66809,negativo
 66810,positivo
 66811,positivo
 66812,positivo
@@ -6829,7 +6829,7 @@ ID,sentimiento
 66827,positivo
 66828,negativo
 66829,positivo
-66830,positivo
+66830,negativo
 66831,positivo
 66832,positivo
 66833,negativo
@@ -6843,7 +6843,7 @@ ID,sentimiento
 66841,positivo
 66842,positivo
 66843,negativo
-66844,negativo
+66844,positivo
 66845,positivo
 66846,negativo
 66847,positivo
@@ -6867,7 +6867,7 @@ ID,sentimiento
 66865,positivo
 66866,positivo
 66867,positivo
-66868,positivo
+66868,negativo
 66869,positivo
 66870,positivo
 66871,positivo
@@ -6876,7 +6876,7 @@ ID,sentimiento
 66874,positivo
 66875,positivo
 66876,negativo
-66877,positivo
+66877,negativo
 66878,negativo
 66879,positivo
 66880,negativo
@@ -6885,7 +6885,7 @@ ID,sentimiento
 66883,negativo
 66884,negativo
 66885,negativo
-66886,negativo
+66886,positivo
 66887,positivo
 66888,positivo
 66889,positivo
@@ -6910,7 +6910,7 @@ ID,sentimiento
 66908,positivo
 66909,positivo
 66910,positivo
-66911,negativo
+66911,positivo
 66912,negativo
 66913,negativo
 66914,positivo
@@ -6977,7 +6977,7 @@ ID,sentimiento
 66975,positivo
 66976,negativo
 66977,negativo
-66978,negativo
+66978,positivo
 66979,negativo
 66980,negativo
 66981,negativo
@@ -7010,11 +7010,11 @@ ID,sentimiento
 67008,negativo
 67009,positivo
 67010,positivo
-67011,negativo
+67011,positivo
 67012,negativo
 67013,negativo
 67014,negativo
-67015,negativo
+67015,positivo
 67016,negativo
 67017,positivo
 67018,negativo
@@ -7041,7 +7041,7 @@ ID,sentimiento
 67039,negativo
 67040,negativo
 67041,negativo
-67042,negativo
+67042,positivo
 67043,negativo
 67044,negativo
 67045,negativo
@@ -7074,7 +7074,7 @@ ID,sentimiento
 67072,negativo
 67073,negativo
 67074,negativo
-67075,negativo
+67075,positivo
 67076,positivo
 67077,negativo
 67078,positivo
@@ -7089,10 +7089,10 @@ ID,sentimiento
 67087,positivo
 67088,positivo
 67089,negativo
-67090,negativo
+67090,positivo
 67091,negativo
 67092,negativo
-67093,positivo
+67093,negativo
 67094,positivo
 67095,positivo
 67096,positivo
@@ -7134,10 +7134,10 @@ ID,sentimiento
 67132,positivo
 67133,negativo
 67134,negativo
-67135,negativo
+67135,positivo
 67136,positivo
 67137,negativo
-67138,positivo
+67138,negativo
 67139,negativo
 67140,negativo
 67141,positivo
@@ -7184,7 +7184,7 @@ ID,sentimiento
 67182,positivo
 67183,negativo
 67184,positivo
-67185,negativo
+67185,positivo
 67186,negativo
 67187,positivo
 67188,negativo
@@ -7219,7 +7219,7 @@ ID,sentimiento
 67217,positivo
 67218,positivo
 67219,positivo
-67220,negativo
+67220,positivo
 67221,negativo
 67222,negativo
 67223,negativo
@@ -7238,7 +7238,7 @@ ID,sentimiento
 67236,negativo
 67237,negativo
 67238,negativo
-67239,positivo
+67239,negativo
 67240,negativo
 67241,negativo
 67242,negativo
@@ -7309,7 +7309,7 @@ ID,sentimiento
 67307,negativo
 67308,negativo
 67309,negativo
-67310,positivo
+67310,negativo
 67311,negativo
 67312,negativo
 67313,negativo
@@ -7339,7 +7339,7 @@ ID,sentimiento
 67337,positivo
 67338,negativo
 67339,negativo
-67340,positivo
+67340,negativo
 67341,negativo
 67342,negativo
 67343,positivo
@@ -7464,7 +7464,7 @@ ID,sentimiento
 67462,positivo
 67463,negativo
 67464,negativo
-67465,negativo
+67465,positivo
 67466,positivo
 67467,positivo
 67468,negativo
@@ -7484,7 +7484,7 @@ ID,sentimiento
 67482,positivo
 67483,negativo
 67484,positivo
-67485,negativo
+67485,positivo
 67486,negativo
 67487,negativo
 67488,negativo
@@ -7492,7 +7492,7 @@ ID,sentimiento
 67490,negativo
 67491,negativo
 67492,positivo
-67493,positivo
+67493,negativo
 67494,positivo
 67495,positivo
 67496,positivo
@@ -7572,8 +7572,8 @@ ID,sentimiento
 67570,negativo
 67571,negativo
 67572,negativo
-67573,positivo
-67574,negativo
+67573,negativo
+67574,positivo
 67575,negativo
 67576,positivo
 67577,negativo
@@ -7602,7 +7602,7 @@ ID,sentimiento
 67600,positivo
 67601,positivo
 67602,negativo
-67603,negativo
+67603,positivo
 67604,positivo
 67605,positivo
 67606,negativo
@@ -7660,7 +7660,7 @@ ID,sentimiento
 67658,negativo
 67659,positivo
 67660,negativo
-67661,negativo
+67661,positivo
 67662,negativo
 67663,negativo
 67664,negativo
@@ -7706,7 +7706,7 @@ ID,sentimiento
 67704,negativo
 67705,positivo
 67706,positivo
-67707,positivo
+67707,negativo
 67708,negativo
 67709,negativo
 67710,negativo
@@ -7749,7 +7749,7 @@ ID,sentimiento
 67747,positivo
 67748,positivo
 67749,negativo
-67750,negativo
+67750,positivo
 67751,positivo
 67752,positivo
 67753,negativo
@@ -7761,7 +7761,7 @@ ID,sentimiento
 67759,positivo
 67760,positivo
 67761,negativo
-67762,positivo
+67762,negativo
 67763,positivo
 67764,positivo
 67765,positivo
@@ -7833,7 +7833,7 @@ ID,sentimiento
 67831,negativo
 67832,negativo
 67833,negativo
-67834,positivo
+67834,negativo
 67835,negativo
 67836,negativo
 67837,negativo
@@ -7854,7 +7854,7 @@ ID,sentimiento
 67852,negativo
 67853,positivo
 67854,negativo
-67855,negativo
+67855,positivo
 67856,negativo
 67857,positivo
 67858,negativo
@@ -7871,7 +7871,7 @@ ID,sentimiento
 67869,negativo
 67870,positivo
 67871,positivo
-67872,negativo
+67872,positivo
 67873,negativo
 67874,positivo
 67875,positivo
@@ -7968,7 +7968,7 @@ ID,sentimiento
 67966,positivo
 67967,negativo
 67968,negativo
-67969,negativo
+67969,positivo
 67970,negativo
 67971,negativo
 67972,positivo
@@ -8037,7 +8037,7 @@ ID,sentimiento
 68035,positivo
 68036,positivo
 68037,positivo
-68038,negativo
+68038,positivo
 68039,positivo
 68040,positivo
 68041,positivo
@@ -8144,7 +8144,7 @@ ID,sentimiento
 68142,positivo
 68143,positivo
 68144,positivo
-68145,negativo
+68145,positivo
 68146,negativo
 68147,negativo
 68148,negativo
@@ -8164,7 +8164,7 @@ ID,sentimiento
 68162,negativo
 68163,positivo
 68164,negativo
-68165,positivo
+68165,negativo
 68166,positivo
 68167,positivo
 68168,negativo
@@ -8188,7 +8188,7 @@ ID,sentimiento
 68186,negativo
 68187,positivo
 68188,positivo
-68189,positivo
+68189,negativo
 68190,negativo
 68191,negativo
 68192,negativo
@@ -8246,12 +8246,12 @@ ID,sentimiento
 68244,negativo
 68245,negativo
 68246,positivo
-68247,negativo
+68247,positivo
 68248,positivo
 68249,positivo
 68250,positivo
 68251,positivo
-68252,negativo
+68252,positivo
 68253,negativo
 68254,negativo
 68255,positivo
@@ -8259,7 +8259,7 @@ ID,sentimiento
 68257,positivo
 68258,positivo
 68259,positivo
-68260,negativo
+68260,positivo
 68261,negativo
 68262,positivo
 68263,negativo
@@ -8269,7 +8269,7 @@ ID,sentimiento
 68267,negativo
 68268,positivo
 68269,positivo
-68270,negativo
+68270,positivo
 68271,negativo
 68272,positivo
 68273,positivo
@@ -8285,7 +8285,7 @@ ID,sentimiento
 68283,positivo
 68284,positivo
 68285,positivo
-68286,positivo
+68286,negativo
 68287,negativo
 68288,positivo
 68289,positivo
@@ -8309,7 +8309,7 @@ ID,sentimiento
 68307,positivo
 68308,positivo
 68309,negativo
-68310,negativo
+68310,positivo
 68311,positivo
 68312,negativo
 68313,positivo
@@ -8334,7 +8334,7 @@ ID,sentimiento
 68332,positivo
 68333,positivo
 68334,positivo
-68335,negativo
+68335,positivo
 68336,positivo
 68337,negativo
 68338,positivo
@@ -8451,7 +8451,7 @@ ID,sentimiento
 68449,positivo
 68450,negativo
 68451,positivo
-68452,negativo
+68452,positivo
 68453,positivo
 68454,positivo
 68455,positivo
@@ -8462,9 +8462,9 @@ ID,sentimiento
 68460,positivo
 68461,positivo
 68462,negativo
-68463,negativo
+68463,positivo
 68464,positivo
-68465,positivo
+68465,negativo
 68466,negativo
 68467,positivo
 68468,positivo
@@ -8478,7 +8478,7 @@ ID,sentimiento
 68476,positivo
 68477,positivo
 68478,positivo
-68479,negativo
+68479,positivo
 68480,negativo
 68481,positivo
 68482,positivo
@@ -8492,7 +8492,7 @@ ID,sentimiento
 68490,negativo
 68491,positivo
 68492,positivo
-68493,positivo
+68493,negativo
 68494,positivo
 68495,positivo
 68496,positivo
@@ -8566,7 +8566,7 @@ ID,sentimiento
 68564,positivo
 68565,positivo
 68566,positivo
-68567,positivo
+68567,negativo
 68568,positivo
 68569,positivo
 68570,positivo
